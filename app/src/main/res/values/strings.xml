@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GifApp</string>
+    <string name="logo">Simple GIF App</string>
+    <string name="hint_user_field">Search GIPHY</string>
+    <string name="main_btn">Search</string>
+    <string name="no_user_input">Enter Text</string>
+</resources>
